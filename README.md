@@ -1,4 +1,4 @@
-### Hi there, welcome to my Github Page
+### Hi there, Welcome to My Github Page
 
 <!--
 **RioPan/RioPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
