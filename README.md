@@ -26,7 +26,7 @@ Click  https://github.com/RioPan/MLB-Time-Series-Forecast-Project to see my time
 If you want to see customer segementation project involving using Clustering methods
 Click https://github.com/RioPan/Sun_Country_Clustering to see my Sun Country Customer Segementation project.
 
-**Image Recognition **
+**Image Recognition**
 
 
 If you are interested in image recognition project. 
