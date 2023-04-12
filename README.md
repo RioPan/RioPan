@@ -26,6 +26,10 @@ Click  https://github.com/RioPan/MLB-Time-Series-Forecast-Project to see my time
 If you want to see customer segementation project involving using Clustering methods
 Click https://github.com/RioPan/Sun_Country_Clustering to see my Sun Country Customer Segementation project.
 
+**Natural Language Processing**
+
+If you would like to see Natural Language Processing project, click https://github.com/RioPan/NLP-Facebook-Post to see me using BERT+LSTM to doing facebook post classification task
+
 **Image Recognition**
 
 
