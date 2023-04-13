@@ -27,8 +27,8 @@ If you want to see customer segementation project involving using Clustering met
 Click https://github.com/RioPan/Sun_Country_Clustering to see my Sun Country Customer Segementation project.
 
 **Twitter Streaming Pipeline(Big Data)**
-Simplified streaming pipeline and no-code machine learning with Google Cloud Platform
 
+Simplified streaming pipeline and no-code machine learning with Google Cloud Platform
 Check it out https://github.com/RioPan/Google-Cloud
 
 **Natural Language Processing**
