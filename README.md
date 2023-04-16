@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a Master of Business Analytics student at university of Minnesota, Carlson school of management.
 
-**Time Series Forecasting**
+**Time Series Forecasting(Sports Analytics)**
 
 If you are looking for time series forecasting project involving using the cutting edge Temporal Fusion Transformer model.
 Click  https://github.com/RioPan/MLB-Time-Series-Forecast-Project to see my timeseries forecasting project for MLB home game attendance.
