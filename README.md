@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Master of Business Analytics student at university of Minnesota, Carlson school of management.
+I am a Master of Business Analytics Graduate at the university of Minnesota, Carlson school of management.
 
 **Time Series Forecasting(Sports Analytics)**
 
